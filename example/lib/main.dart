@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:dialogplugin/dialogplugin.dart';
+import 'package:dialogplugin/dialog_plugin.dart';
 
 void main() {
   runApp(const MyApp());

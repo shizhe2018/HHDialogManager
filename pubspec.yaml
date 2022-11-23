@@ -1,7 +1,7 @@
 name: testdialog
 description: test
 version: 0.0.1
-homepage:
+homepage: https://github.com/shizhe2018/HHDialogManager
 
 environment:
   sdk: ">=2.17.6 <3.0.0"

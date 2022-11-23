@@ -1,6 +1,6 @@
-# dialogplugin
+# testdialog
 
-A new Flutter project.
+test
 
 ## Getting Started
 

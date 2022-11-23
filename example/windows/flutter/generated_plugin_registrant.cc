@@ -6,9 +6,9 @@
 
 #include "generated_plugin_registrant.h"
 
-#include <dialogplugin/dialogplugin_plugin_c_api.h>
+#include <testdialog/testdialog_plugin_c_api.h>
 
 void RegisterPlugins(flutter::PluginRegistry* registry) {
-  DialogpluginPluginCApiRegisterWithRegistrar(
-      registry->GetRegistrarForPlugin("DialogpluginPluginCApi"));
+  TestdialogPluginCApiRegisterWithRegistrar(
+      registry->GetRegistrarForPlugin("TestdialogPluginCApi"));
 }

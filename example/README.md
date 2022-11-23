@@ -1,6 +1,6 @@
-# dialogplugin_example
+# testdialog_example
 
-Demonstrates how to use the dialogplugin plugin.
+Demonstrates how to use the testdialog plugin.
 
 ## Getting Started
 
